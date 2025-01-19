@@ -88,7 +88,7 @@ const Footer = () => {
         This project is developed by <strong>'Incognito Team Members'</strong>
         <div className="w-full flex justify-evenly">
           <a href="https://github.com/Rajdeep2305" className="hover:underline">Rajdeep Pal</a>
-          <a className="hover:underline" href="https://www.linkedin.com/in/shaunak-ghosh-752b74329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Shaunak Gosh</a>
+          <a className="hover:underline" href="https://www.linkedin.com/in/shaunak-ghosh-752b74329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Shaunak Ghosh</a>
         </div>
         </div>
       </div>
